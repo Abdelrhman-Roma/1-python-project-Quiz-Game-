@@ -52,3 +52,20 @@ Nice, you can do more!
 معالجة المدخلات النصية (.lower(), .strip()).
 
 تطبيق الشروط if/else لبناء منطق البرنامج.
+## Quiz Game in English
+# 🖥️ Computer Quiz Game
+
+This is a simple **Python** project that creates a console-based Quiz game about computer basics.  
+
+## 📌 Features
+- Asks the user first if they want to play or not.  
+- Contains **10 computer-related questions**.  
+- Checks the answer and shows the correct one if the user is wrong.  
+- Accepts multiple correct variations for some answers (e.g., `hdd` or `ssd`).  
+- Calculates the final score and displays feedback based on performance.  
+
+## 🚀 How to Run
+1. Make sure you have Python installed on your system.  
+2. Download the code and run it using:  
+   ```bash
+   python quiz.py
